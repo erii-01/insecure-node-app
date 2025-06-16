@@ -1,3 +1,4 @@
+[![Security Test Pipeline](https://github.com/erii-01/insecure-node-app/actions/workflows/main.yml/badge.svg)](https://github.com/erii-01/insecure-node-app/actions/workflows/main.yml)
 <div align="center">
 <h1> Insecure Node app </h1>
 </div>
